@@ -5,7 +5,6 @@
     flex-direction:row;
     flex-wrap:nowrap;
     justify-content: center;
-    align-content: stretch;
     font-size: 40px;
     color: yellow;    
     margin: 20px 40px 0px 20px; /* 20px arriba, 40px derecha, 0px abajo, 20px izquierda */
